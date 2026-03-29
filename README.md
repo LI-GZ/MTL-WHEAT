@@ -11,7 +11,7 @@ This repository contains the official implementation of the environment-adaptive
 - `MSC+CARS.py`: Pipeline for hyperspectral data preprocessing and feature selection.
 - `Multi-Task Learning Framework.py`: The PyTorch implementation of the environment-adaptive MTL model.
 - `requirements.txt`: List of required Python packages.
-- `data/`: Directory for input datasets (requires user to provide data).
+- `data/`: Directory for input datasets (empty by default, requires user to provide data).
 - `output/`: Auto-generated directory for saving results and model metrics.
 
 ## ⚙️ Environment Setup
